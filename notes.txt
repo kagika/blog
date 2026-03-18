@@ -1,0 +1,4 @@
+• Flexbox    → Arranging items in rows or columns (header, hero, nav)
+  • Grid       → Two-column layout for the About Me section
+  • border-radius → Rounded corners (50px = pill, 50% = circle)
+  • transform  → Slight rotation on badges for a "sticker" look
